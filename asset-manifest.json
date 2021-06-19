@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-crud-app/static/css/main.dd791ee7.chunk.css",
+    "main.js": "/simple-crud-app/static/js/main.1543d34e.chunk.js",
+    "main.js.map": "/simple-crud-app/static/js/main.1543d34e.chunk.js.map",
+    "runtime-main.js": "/simple-crud-app/static/js/runtime-main.9621e161.js",
+    "runtime-main.js.map": "/simple-crud-app/static/js/runtime-main.9621e161.js.map",
+    "static/js/2.361734d5.chunk.js": "/simple-crud-app/static/js/2.361734d5.chunk.js",
+    "static/js/2.361734d5.chunk.js.map": "/simple-crud-app/static/js/2.361734d5.chunk.js.map",
+    "index.html": "/simple-crud-app/index.html",
+    "static/css/main.dd791ee7.chunk.css.map": "/simple-crud-app/static/css/main.dd791ee7.chunk.css.map",
+    "static/js/2.361734d5.chunk.js.LICENSE.txt": "/simple-crud-app/static/js/2.361734d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9621e161.js",
+    "static/js/2.361734d5.chunk.js",
+    "static/css/main.dd791ee7.chunk.css",
+    "static/js/main.1543d34e.chunk.js"
+  ]
+}
